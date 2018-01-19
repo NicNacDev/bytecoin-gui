@@ -1,0 +1,4 @@
+set(CN_PROJECT_NAME "NicNacCoin")
+set(CN_CURRENCY_DISPLAY_NAME "nicnaccoin")
+set(CN_CURRENCY_TICKER "NNC")
+set(CN_VERSION 1.0.0)
