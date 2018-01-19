@@ -1,5 +1,5 @@
-# Ooze - NicNacCoin GUI Wallet
-## by NicNacCev
+# NicNacDev - NicNacCoin GUI Wallet
+## by NicNacDev
 
 ![image](https://nicnaccoins.com/nnc/www/logo-s.jpg)
 
